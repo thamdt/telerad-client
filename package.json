@@ -1,0 +1,25 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.tamviettech.vn/y-te/telerad-client2.git"
+  },
+  "author": "gitHub",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "4.14.0",
+	"socket.io": "1.7.2",
+        "request": "2.79.0",
+        "body-parser" : "1.16.0",
+	"jquery" : "3.1.1",
+        "node-each" : "",
+        "node-rest-client" : "",
+        "body-parser": ""
+  }
+}
