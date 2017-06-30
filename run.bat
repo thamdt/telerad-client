@@ -1,1 +1,1 @@
-start cmd /k  cmd.bat
+start cmd /c  cmd.bat
